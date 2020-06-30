@@ -1,0 +1,25 @@
+{
+  "name": "js-testing",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">   <h1 align=\"center\">TDD with Jest, Javascript ES6</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davitomix/js-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davitomix/js-testing/issues"
+  },
+  "homepage": "https://github.com/davitomix/js-testing#readme",
+  "devDependencies": {
+    "jest": "^26.1.0",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
+  }
+}
