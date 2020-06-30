@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 const caesarCipher = require('./caesarCipher');
 
 test('it ciphers 1', () => {
